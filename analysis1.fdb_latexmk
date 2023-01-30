@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1672913707 "c:/Users/nshar/OneDrive/Dokumente/ETH/Semester 2/Analysis I/LaTex Summary/Master Cheatsheet Nicolas/analysis1/analysis1.tex" "analysis1.pdf" "analysis1" 1672913711
-  "C:/Users/nshar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1672841105 81116 42e978edc04ab2135d8d2c5e7065b4fe ""
+["pdflatex"] 1675122070 "c:/Users/nshar/OneDrive/Dokumente/ETH/Semester 2/Analysis I/LaTex Summary/Master Cheatsheet Nicolas/analysis1/analysis1.tex" "analysis1.pdf" "analysis1" 1675122074
+  "C:/Users/nshar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1673024384 81275 019e41c07de0831308f5bb9dbdf592d3 ""
   "C:/Users/nshar/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0700.pk" 1657006371 8268 557e743e3311f425ad00a4011eeefb46 ""
   "C:/Users/nshar/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1653846101 10252455 2a6beac01e7041ab387f21c7b431c704 ""
   "C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm0700.tfm" 993058906 1452 97bdc98984cb373fbcd868e2fa55f5f2 ""
@@ -241,10 +241,10 @@
   "C:/Users/nshar/AppData/Local/Programs/MiKTeX/tex/latex/xfor/xfor.sty" 1233849756 2689 44855b72da58344b1c1d9b3087bce6ca ""
   "C:/Users/nshar/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1623002090 4902 efb3d66683a2da2a232f71e3a571a899 ""
   "C:/Users/nshar/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
-  "analysis1.aux" 1672913711 29011 9a009d6130ceb3926e22e572062cfb76 "pdflatex"
+  "analysis1.aux" 1675122074 29011 ef53ccf33c22643a96e420e3174c09b8 "pdflatex"
   "analysis1.out" 0 -1 0 "pdflatex"
-  "analysis1.tex" 1672913702 82340 4a06f01673f7b697d13f5ba5ac8d1ddf ""
-  "c:/Users/nshar/OneDrive/Dokumente/ETH/Semester 2/Analysis I/LaTex Summary/Master Cheatsheet Nicolas/analysis1/analysis1.tex" 1672913702 82340 4a06f01673f7b697d13f5ba5ac8d1ddf ""
+  "analysis1.tex" 1675122066 82407 4ae404291ca364d8846aafed0f148346 ""
+  "c:/Users/nshar/OneDrive/Dokumente/ETH/Semester 2/Analysis I/LaTex Summary/Master Cheatsheet Nicolas/analysis1/analysis1.tex" 1675122066 82407 4ae404291ca364d8846aafed0f148346 ""
   "degrees_circle.pdf" 1653393824 47446 1f20ccf4a3aec05469a1f2374db88531 ""
   "mittelwertsatz.png" 1653393824 18836 bac2d6eaa13b635a83f6b3eafbe0e3ab ""
   "zwischenwertsatz.png" 1653393824 17777 3aa2a0df87a663d7aef436024ae77f8b ""

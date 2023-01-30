@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.29)  5 JAN 2023 11:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.29)  31 JAN 2023 00:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1040,12 +1040,12 @@ Overfull \hbox (2.10663pt too wide) in paragraph at lines 249--253
  []
 
 
-Underfull \hbox (badness 1189) in paragraph at lines 284--285
-\OT1/cmr/m/n/7 be-schr[]ankt ist, dann kon-ver-giert $\OML/cmm/m/it/7 a[]$ \OT1/cmr/m/n/7 mit
+Underfull \hbox (badness 1052) in paragraph at lines 279--281
+[]\OT1/cmr/m/n/7 Wenn $[][] \OML/cmm/m/it/7 a[] \OT1/cmr/m/n/7 = \OML/cmm/m/it/7 ;  [][] b[] \OT1/cmr/m/n/7 =
  []
 
 
-Underfull \hbox (badness 6542) in paragraph at lines 292--302
+Underfull \hbox (badness 6016) in paragraph at lines 292--302
 \OML/cmm/m/it/7 e[]$ \OT1/cmr/m/n/7 ist ste-tig $\OMS/cmsy/m/n/7 )$ \OT1/cmr/m/n/7 Li-mes in Ex-po-nent.
  []
 
@@ -1088,12 +1088,12 @@ $[][] \OML/cmm/m/it/7 a[]$ \OT1/cmr/m/n/7 heisst \OT1/cmr/bx/n/7 ab-so-lut kon-v
  []
 
 
-Underfull \hbox (badness 3724) in paragraph at lines 423--425
+Underfull \hbox (badness 3449) in paragraph at lines 423--425
 \OT1/cmr/m/n/7 Falls $[][] [] [] \OML/cmm/m/it/7 < \OT1/cmr/m/n/7 1  =[]\OMS/cmsy/m/n/7 )
  []
 
 
-Underfull \hbox (badness 7415) in paragraph at lines 450--451
+Underfull \hbox (badness 6575) in paragraph at lines 450--451
 []\OT1/cmr/m/n/7 Das Cauchy-Produkt von zwei Rei-hen
  []
 
@@ -1103,7 +1103,7 @@ Overfull \hbox (5.0679pt too wide) in paragraph at lines 459--460
  []
 
 
-Overfull \hbox (6.89606pt too wide) detected at line 501
+Overfull \hbox (7.74963pt too wide) detected at line 501
 \OML/cmm/m/it/7 f \OT1/cmr/m/n/7 + \OML/cmm/m/it/7 g; ^^U \OMS/cmsy/m/n/7 ^^A \OML/cmm/m/it/7 f; f \OMS/cmsy/m/n/7 ^^A \OML/cmm/m/it/7 g; []; \OMS/cmsy/m/n/7 j\OML/cmm/m/it/7 f\OMS/cmsy/m/n/7 j\OML/cmm/m/it/7 ; []\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 f; g\OT1/cmr/m/n/7 )\OML/cmm/m/it/7 ; []\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 f; g\OT1/cmr/m/n/7 )
  []
 
@@ -1112,7 +1112,7 @@ Overfull \hbox (6.89606pt too wide) detected at line 501
 File: zwischenwertsatz.png Graphic file (type png)
 <use zwischenwertsatz.png>
 Package pdftex.def Info: zwischenwertsatz.png  used on input line 512.
-(pdftex.def)             Requested size: 154.35628pt x 98.22504pt.
+(pdftex.def)             Requested size: 153.5027pt x 97.683pt.
 
 Overfull \hbox (0.85971pt too wide) in paragraph at lines 565--577
 \OML/cmm/m/it/7 f[]$ \OT1/cmr/m/n/7 gleichm[]assig kon-ver-giert. Punkt-wei-se Kon-ver-genz
@@ -1133,12 +1133,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 624--627
 
  []
 
-
+[3 <./zwischenwertsatz.png>]
 Overfull \hbox (3.1054pt too wide) in paragraph at lines 674--675
 []\OT1/cmr/m/n/7 Das Pro-dukt zwei-er ge-ra-der Funk-tio-nen ist wie-
  []
 
-[3 <./zwischenwertsatz.png>]
+
 Overfull \hbox (1.32623pt too wide) in paragraph at lines 680--681
 []\OT1/cmr/m/n/7 Die Kom-po-si-ti-on ei-ner be-lie-bi-gen Funk-ti-on mit
  []
@@ -1149,17 +1149,17 @@ Overfull \hbox (2.29152pt too wide) in paragraph at lines 681--682
  []
 
 
-Overfull \hbox (4.66849pt too wide) detected at line 691
+Overfull \hbox (5.52206pt too wide) detected at line 691
 [] [] \OT1/cmr/m/n/7 = [] []
  []
 
 
-Underfull \hbox (badness 1694) in paragraph at lines 700--701
+Underfull \hbox (badness 1546) in paragraph at lines 700--701
 \OT1/cmr/m/n/7 ist $\OML/cmm/m/it/7 c \OT1/cmr/m/n/7 = \OML/cmm/m/it/7 f[]\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x[]\OT1/cmr/m/n/7 )$ und $\OML/cmm/m/it/7 r\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 ) =
  []
 
 
-Underfull \hbox (badness 7099) in paragraph at lines 711--717
+Underfull \hbox (badness 6658) in paragraph at lines 711--717
 \OT1/cmr/m/it/7 Beweis: \OT1/cmr/m/n/7 Sei $\OML/cmm/m/it/7 x[] \OMS/cmsy/m/n/7 2 \OML/cmm/m/it/7 D$ \OT1/cmr/m/n/7 be-lie-big und
  []
 
@@ -1169,13 +1169,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 711--717
  []
 
 
-Underfull \hbox (badness 1215) in paragraph at lines 711--717
+Underfull \hbox (badness 1005) in paragraph at lines 711--717
 [][]\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 f\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x[]\OT1/cmr/m/n/7 ) + \OML/cmm/m/it/7 ^^^\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )(\OML/cmm/m/it/7 x \OMS/cmsy/m/n/7 ^^@ \OML/cmm/m/it/7 x[]\OT1/cmr/m/n/7 )) []
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 711--717
 
+ []
+
+
+Underfull \hbox (badness 4792) in paragraph at lines 711--717
+\OT1/cmr/bx/n/7 Bmk: \OT1/cmr/m/n/7 Es gibt ste-ti-ge Funk-tio-nen auf
  []
 
 
@@ -1193,23 +1198,23 @@ Overfull \hbox (11.72154pt too wide) in paragraph at lines 766--767
 []$\OML/cmm/m/it/7 f$ \OT1/cmr/m/n/7 be-sitzt einen Wen-de-punkt in $\OML/cmm/m/it/7 x[]$\OT1/cmr/m/n/7 , wenn $\OML/cmm/m/it/7 f[]\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x[]\OT1/cmr/m/n/7 ) =
  []
 
-<mittelwertsatz.png, id=137, 476.53032pt x 260.47313pt>
+<mittelwertsatz.png, id=135, 476.53032pt x 260.47313pt>
 File: mittelwertsatz.png Graphic file (type png)
 <use mittelwertsatz.png>
 Package pdftex.def Info: mittelwertsatz.png  used on input line 780.
-(pdftex.def)             Requested size: 154.35628pt x 84.37056pt.
+(pdftex.def)             Requested size: 153.5027pt x 83.90555pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 791--796
 
  []
 
 
-Underfull \hbox (badness 3312) in paragraph at lines 791--796
+Underfull \hbox (badness 2913) in paragraph at lines 791--796
 \OT1/cmr/m/n/7 Da ei-ne Absch[]atzung mit dem Taylor-
  []
 
 
-Underfull \hbox (badness 1824) in paragraph at lines 791--796
+Underfull \hbox (badness 1565) in paragraph at lines 791--796
 \OT1/cmr/m/n/7 Feh-ler hat, de-fi-nie-ren wir das Rest-glied
  []
 
@@ -1238,18 +1243,18 @@ Overfull \hbox (27.79655pt too wide) in paragraph at lines 959--960
 \OT1/cmr/m/n/7 0\OML/cmm/m/it/7 ; \OMS/cmsy/m/n/7 8\OML/cmm/m/it/7 x \OMS/cmsy/m/n/7 2 \OT1/cmr/m/n/7 [\OML/cmm/m/it/7 a; b\OT1/cmr/m/n/7 ]$ ist, dann gibt es $\OML/cmm/m/it/7 ^^X \OMS/cmsy/m/n/7 2 \OT1/cmr/m/n/7 [\OML/cmm/m/it/7 a; b\OT1/cmr/m/n/7 ]$ mit $[][] \OML/cmm/m/it/7 f\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )\OML/cmm/m/it/7 g\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )[]\OML/cmm/m/it/7 x \OT1/cmr/m/n/7 =
  []
 
-
-Overfull \hbox (17.81657pt too wide) detected at line 999
+[5]
+Overfull \hbox (18.67015pt too wide) detected at line 999
 [] \OML/cmm/m/it/7 u \OMS/cmsy/m/n/7 ^^A \OML/cmm/m/it/7 f\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 ) + \OML/cmm/m/it/7 v \OMS/cmsy/m/n/7 ^^A \OML/cmm/m/it/7 g\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )[]\OML/cmm/m/it/7 x \OT1/cmr/m/n/7 = \OML/cmm/m/it/7 u [] f\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )[]\OML/cmm/m/it/7 x \OT1/cmr/m/n/7 + \OML/cmm/m/it/7 v [] g\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )[]\OML/cmm/m/it/7 x
  []
 
 
-Overfull \hbox (18.12462pt too wide) detected at line 1004
+Overfull \hbox (18.9782pt too wide) detected at line 1004
 [][] \OML/cmm/m/it/7 f\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )[]\OML/cmm/m/it/7 x \OT1/cmr/m/n/7 = [][] \OML/cmm/m/it/7 f\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )[]\OML/cmm/m/it/7 x \OT1/cmr/m/n/7 + [][] \OML/cmm/m/it/7 f\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )[]\OML/cmm/m/it/7 x;  c \OMS/cmsy/m/n/7 2 \OT1/cmr/m/n/7 [\OML/cmm/m/it/7 a; b\OT1/cmr/m/n/7 ]
  []
 
-[5]
-Overfull \hbox (1.18074pt too wide) detected at line 1009
+
+Overfull \hbox (2.03432pt too wide) detected at line 1009
 [] \OML/cmm/m/it/7 f[]\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )\OML/cmm/m/it/7 g\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )[]\OML/cmm/m/it/7 x \OT1/cmr/m/n/7 = \OML/cmm/m/it/7 f\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )\OML/cmm/m/it/7 g\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 ) \OMS/cmsy/m/n/7 ^^@ [] \OML/cmm/m/it/7 f\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )\OML/cmm/m/it/7 g[]\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )[]\OML/cmm/m/it/7 x
  []
 
@@ -1259,7 +1264,7 @@ Overfull \hbox (0.8665pt too wide) in paragraph at lines 1014--1015
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 1019--1021
+Underfull \hbox (badness 1127) in paragraph at lines 1019--1021
 []\OT1/cmr/m/n/7 Um $[][] \OML/cmm/m/it/7 f\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 g\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 ))[]\OML/cmm/m/it/7 x$ \OT1/cmr/m/n/7 zu be-rech-nen: Er-set-ze
  []
 
@@ -1274,8 +1279,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 1041--1042
  []
 
 
-Underfull \hbox (badness 3803) in paragraph at lines 1041--1042
+Underfull \hbox (badness 3098) in paragraph at lines 1041--1042
 \OML/cmm/m/it/7 B[]; [] ; B[]$\OT1/cmr/m/n/7 ) be-stim-men. ($\OML/cmm/m/it/7 x$ \OT1/cmr/m/n/7 je-weils
+ []
+
+
+Underfull \hbox (badness 4832) in paragraph at lines 1041--1042
+\OT1/cmr/m/n/7 gleich Null-stel-le set-zen, um-for-men
  []
 
 
@@ -1304,7 +1314,7 @@ Overfull \hbox (8.3109pt too wide) in paragraph at lines 1082--1082
  []
 
 
-Overfull \hbox (29.48131pt too wide) detected at line 1109
+Overfull \hbox (30.33488pt too wide) detected at line 1109
 \OT1/cmr/m/n/7 1[] + 2[] + 3[] + \OML/cmm/m/it/7 ::: \OT1/cmr/m/n/7 + \OML/cmm/m/it/7 n[] \OT1/cmr/m/n/7 = [] [](\OMS/cmsy/m/n/7 ^^@\OT1/cmr/m/n/7 1)[]\OML/cmm/m/it/7 B[][]n[]
  []
 
@@ -1324,7 +1334,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1247--1249
  []
 
 
-Overfull \hbox (11.31256pt too wide) in paragraph at lines 1256--1264
+Overfull \hbox (12.16614pt too wide) in paragraph at lines 1256--1264
  [] 
  []
 
@@ -1459,11 +1469,6 @@ Overfull \hbox (7.76537pt too wide) detected at line 1807
  []
 
 
-Overfull \hbox (7.2416pt too wide) in paragraph at lines 1813--1820
-\OT1/cmr/m/n/7 Diese Cheats-heet wur-de stark von ver-schie-de-nen schon
- []
-
-
 Overfull \hbox (0.47385pt too wide) in paragraph at lines 1813--1820
 \OT1/cmr/m/n/7 Stein-mann, Dan-ny Ca-me-nisch, An-drej Scheu-er etc.). 
  []
@@ -1474,13 +1479,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 1813--1820
  []
 
 
-Overfull \hbox (1.39851pt too wide) in paragraph at lines 1813--1820
-\OT1/cmr/m/n/7 Auch sind die meis-ten Auf-ga-ben und de-ren L[]osungen
- []
-
-
-Overfull \hbox (3.14487pt too wide) in paragraph at lines 1813--1820
-\OT1/cmr/m/n/7 von den VIS Com-mu-ni-ty So-lu-ti-ons []ubernommen wor-
+Overfull \hbox (19.21887pt too wide) in paragraph at lines 1813--1820
+\OT1/cmr/m/n/7 L[]osungen sind ent-we-der mei-ne ei-ge-nen, of-fi-zi-el-le L[]osungen
  []
 
 
@@ -1502,13 +1502,13 @@ Package rerunfilecheck Info: File `analysis1.out' has not changed.
 Here is how much of TeX's memory you used:
  36846 strings out of 478614
  759686 string characters out of 2843122
- 1403401 words of memory out of 3000000
+ 1401403 words of memory out of 3000000
  54219 multiletter control sequences out of 15000+600000
  475914 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 110i,15n,106p,10743b,568s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 110i,15n,106p,10743b,564s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\nshar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0700.pk><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti7.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm5.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on analysis1.pdf (10 pages, 429513 bytes).
+Output written on analysis1.pdf (10 pages, 433518 bytes).
 PDF statistics:
  568 PDF objects out of 1000 (max. 8388607)
  154 named destinations out of 1000 (max. 500000)
