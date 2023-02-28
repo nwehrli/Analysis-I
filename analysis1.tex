@@ -332,8 +332,8 @@ Jede beschränkte Folge besitzt eine konvergente Teilfolge.
  \item Grenzwert durch einfaches Umformen ermitteln.
  \item Limit per Definition der Konvergenz zeigen.
  \item Anwendung des Cauchy-Kriteriums.
- \item \textbf{Suchen eines konvergenten Majorant. ????}
- \item Weinen und die Aufgabe überspringen.
+ \item Suchen eines konvergenten Majoranten. 
+ \item Weinen und die Aufgabe überspringen;)
 \end{enumerate}
 
 \subsection{Strategie - Divergenz von Folgen}
@@ -525,9 +525,9 @@ Dann ist Bild $f = f(I)$ ist auch ein kompaktes Intervall J = [min$f$, max$f$].
  \vspace{-4pt}
 \end{mainbox}
 
-%\begin{subbox}{Stetigkeit der Verknüpfung}
- %Sei $f: D_1 \to D_2, g: D_2 \to \R$ und $x_0 \in D_1$. Falls $f$ in $x_0$ und $g$ in $f(x_0)$ stetig ist, dann ist $g \ocircle f: D_1 \to \R$ in $x_0$ stetig.
-%\end{subbox}
+\begin{subbox}{Stetigkeit der Verknüpfung}
+ Sei $f: D_1 \to D_2, g: D_2 \to \R$ und $x_0 \in D_1$. Falls $f$ in $x_0$ und $g$ in $f(x_0)$ stetig ist, dann ist $g \ocircle f: D_1 \to \R$ in $x_0$ stetig.
+\end{subbox}
 
 \begin{mainbox}{Satz über die Umkehrabbildung}
   \vspace{-4pt}
@@ -563,9 +563,9 @@ Eine Funktionenfolge ist eine Abbildung $\N \to \{f: D \to \R \}$.
  \vspace{-12pt}
 \end{mainbox}
 Sei eine Funktionsfolge $(f_n)_{n \geq 0}$ stetig, dann ist die dazugehörige Funktion $f$ genau dann stetig, wenn $f_n$ gleichmässig konvergiert. Punktweise Konvergenz ist nicht ausreichend.
-\begin{subbox}{}
-  \vspace{-4pt}
-  \textbf{Beispiel: }$f_n: [0, 1] \to \R \ x \to x^n$ konvergiert punktweise gegen $f(x) = \left\{
+
+\vspace{0.5mm}
+  \textbf{Beispiel: }$f_n: [0, 1] \to \R: f_n(x) = x^n$ konvergiert punktweise gegen $f(x) = \left\{
     \begin{array}{ll}
       0  & \mbox{ if } x < 1 \\
       1 & \mbox{ if } x = 1
@@ -573,8 +573,6 @@ Sei eine Funktionsfolge $(f_n)_{n \geq 0}$ stetig, dann ist die dazugehörige Fu
   \right.$
   \\$f_n: [0, 1] \to \R$ ist stetig $\forall n \in \N$
   aber die Grenzwertfunktion $f(x)$ ist nicht stetig.
-  \vspace{-4pt}
-\end{subbox}
 
 
 Die Reihe $\sumk f_k(x)$ konvergiert gleichmässig, falls die durch $S_n(x) = \sum_{k=0}^n f_k(x)$ definierte Funktionenfolge gleichmässig konvergiert.
@@ -647,14 +645,14 @@ Grenzwerte der Form $\infty^0$ und $1^\infty$ können meist mit $f(x)^{g(x)} = e
 \emph{Injektivität}
 \begin{itemize}
 	\item Zeigen, dass $f^{-1}$ surjektiv ist.
-	\item Zeigen, dass gilt $y_1=y_2 \implies x_1=x_2$.
-	\item Annehmen, dass es zwei verschiedene Punkte gibt, dann Widerspruch herbeiführen (Norm hilfreich?).
+	\item Zeigen, dass gilt $f(x_1)=f(x_2) \implies x_1=x_2$.
+	\item Annehmen, dass es zwei Punkte $x_1 \neq x_2$ gibt, so dass $f(x_1) = f(x_2)$, dann Widerspruch herbeiführen.
 	\item Zeigen, dass die Ableitung $\neq 0$ ist, die Funktion also streng monoton wachsend/fallend.
 \end{itemize}
 
 \emph{Surjektivität}
 \begin{itemize}
-	\item Zeigen, dass gilt $\lim_{x\rightarrow\infty}f(x)=\infty$ und \\$\lim_{x\rightarrow-\infty}f(x)=-\infty$ 
+	\item Zeigen, dass gilt $\lim_{x\rightarrow\infty}f(x)=\infty$ und \\$\lim_{x\rightarrow-\infty}f(x)=-\infty$ (oder ähnlich, aufpassen auf Definitionslücken dazwischen!)
 	\item Zeigen, dass $f^{-1}$ keine Lücken im Definitionsbereich hat.
 \end{itemize}
 
@@ -1015,7 +1013,7 @@ $$
  \item Muss eventuell mehrmals angewendet werden
 \end{itemize}
 \begin{mainbox}{Substitution}
-  \vspace{-12pt}
+  \vspace{-4pt}
  Um $\int_a^b f(g(x)) \dx$ zu berechnen: Ersetze $g(x)$ durch $u$ und integriere $\int_{g(a)}^{g(b)} f(u) \frac{\text{d}u}{g'(x)}$.
  \vspace{-12pt}
 \end{mainbox}

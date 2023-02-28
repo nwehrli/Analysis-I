@@ -1,6 +1,6 @@
-PWD c:\Users\nshar\OneDrive\Dokumente\ETH\Semester 2\Analysis I\LaTex Summary\Master Cheatsheet Nicolas\analysis1
+PWD c:\Users\nshar\OneDrive\Dokumente\GitHub\Analysis-I
 INPUT C:\Users\nshar\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\nshar\OneDrive\Dokumente\ETH\Semester 2\Analysis I\LaTex Summary\Master Cheatsheet Nicolas\analysis1\analysis1.tex
+INPUT c:\Users\nshar\OneDrive\Dokumente\GitHub\Analysis-I\analysis1.tex
 OUTPUT analysis1.log
 INPUT C:\Users\nshar\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrartcl.cls
 INPUT C:\Users\nshar\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrartcl.cls
@@ -1404,6 +1404,8 @@ INPUT C:\Users\nshar\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx5.tfm
 INPUT analysis1.aux
 INPUT .\analysis1.out
 INPUT .\analysis1.out
+INPUT C:\Users\nshar\AppData\Local\MiKTeX\fonts\pk\ljfour\public\wasy\dpi600\wasy7.pk
+INPUT C:\Users\nshar\AppData\Local\MiKTeX\fonts\pk\ljfour\public\wasy\dpi600\wasy7.pk
 INPUT C:\Users\nshar\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm0700.pk
 INPUT C:\Users\nshar\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm0700.pk
 INPUT C:\Users\nshar\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx7.pfb

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.29)  31 JAN 2023 00:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.29)  28 FEB 2023 23:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/nshar/OneDrive/Dokumente/ETH/Semester 2/Analysis I/LaTex Summary/Master Cheatsheet Nicolas/analysis1/analysis1.tex"
-(c:/Users/nshar/OneDrive/Dokumente/ETH/Semester 2/Analysis I/LaTex Summary/Master Cheatsheet Nicolas/analysis1/analysis1.tex
+**c:/Users/nshar/OneDrive/Dokumente/GitHub/Analysis-I/analysis1.tex
+(c:/Users/nshar/OneDrive/Dokumente/GitHub/Analysis-I/analysis1.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-05-04> (C:\Users\nshar\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrartcl.cls
 Document Class: scrartcl 2022/05/01 v3.36 KOMA-Script document class (article)
@@ -1058,11 +1058,6 @@ Overfull \hbox (1.37206pt too wide) in paragraph at lines 330--331
  []
 
 
-Overfull \hbox (5.64043pt too wide) in paragraph at lines 335--336
-[]\OT1/cmr/bx/n/7 Suchen ei-nes kon-ver-gen-ten Ma-jo-rant. ???? 
- []
-
-
 Overfull \hbox (8.50471pt too wide) in paragraph at lines 342--343
 []\OT1/cmr/m/n/7 Alternierende Fol-gen: Zei-ge, dass Teil-fol-gen nicht
  []
@@ -1114,292 +1109,302 @@ File: zwischenwertsatz.png Graphic file (type png)
 Package pdftex.def Info: zwischenwertsatz.png  used on input line 512.
 (pdftex.def)             Requested size: 153.5027pt x 97.683pt.
 
-Overfull \hbox (0.85971pt too wide) in paragraph at lines 565--577
+Overfull \hbox (0.85971pt too wide) in paragraph at lines 565--566
 \OML/cmm/m/it/7 f[]$ \OT1/cmr/m/n/7 gleichm[]assig kon-ver-giert. Punkt-wei-se Kon-ver-genz
  []
 
 
-Overfull \hbox (1.37982pt too wide) in paragraph at lines 580--581
+Overfull \hbox (1.37982pt too wide) in paragraph at lines 578--579
 []\OT1/cmr/m/n/7 Die Rei-he $[][] \OML/cmm/m/it/7 f[]\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )$ kon-ver-giert gleichm[]assig, falls
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 591--593
+Underfull \hbox (badness 10000) in paragraph at lines 589--591
 []\OT1/cmr/m/n/7 Potenzreihen sind Rei-hen der Form
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 624--627
+Underfull \hbox (badness 10000) in paragraph at lines 622--625
 
  []
 
 [3 <./zwischenwertsatz.png>]
-Overfull \hbox (3.1054pt too wide) in paragraph at lines 674--675
+Overfull \hbox (3.1054pt too wide) in paragraph at lines 672--673
 []\OT1/cmr/m/n/7 Das Pro-dukt zwei-er ge-ra-der Funk-tio-nen ist wie-
  []
 
 
-Overfull \hbox (1.32623pt too wide) in paragraph at lines 680--681
+Overfull \hbox (1.32623pt too wide) in paragraph at lines 678--679
 []\OT1/cmr/m/n/7 Die Kom-po-si-ti-on ei-ner be-lie-bi-gen Funk-ti-on mit
  []
 
 
-Overfull \hbox (2.29152pt too wide) in paragraph at lines 681--682
+Overfull \hbox (2.29152pt too wide) in paragraph at lines 679--680
 []\OT1/cmr/m/n/7 Die Kom-po-si-ti-on ei-ner un-ge-ra-den Funk-ti-on mit
  []
 
 
-Overfull \hbox (5.52206pt too wide) detected at line 691
+Overfull \hbox (5.52206pt too wide) detected at line 689
 [] [] \OT1/cmr/m/n/7 = [] []
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 700--701
+Underfull \hbox (badness 1546) in paragraph at lines 698--699
 \OT1/cmr/m/n/7 ist $\OML/cmm/m/it/7 c \OT1/cmr/m/n/7 = \OML/cmm/m/it/7 f[]\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x[]\OT1/cmr/m/n/7 )$ und $\OML/cmm/m/it/7 r\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 ) =
  []
 
 
-Underfull \hbox (badness 6658) in paragraph at lines 711--717
+Underfull \hbox (badness 6658) in paragraph at lines 709--715
 \OT1/cmr/m/it/7 Beweis: \OT1/cmr/m/n/7 Sei $\OML/cmm/m/it/7 x[] \OMS/cmsy/m/n/7 2 \OML/cmm/m/it/7 D$ \OT1/cmr/m/n/7 be-lie-big und
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 711--717
+Underfull \hbox (badness 10000) in paragraph at lines 709--715
 \OML/cmm/m/it/7 f$ \OT1/cmr/m/n/7 dif-fe-ren-zier-bar. $[][] \OML/cmm/m/it/7 f\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 ) =
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 711--717
+Underfull \hbox (badness 1005) in paragraph at lines 709--715
 [][]\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 f\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x[]\OT1/cmr/m/n/7 ) + \OML/cmm/m/it/7 ^^^\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )(\OML/cmm/m/it/7 x \OMS/cmsy/m/n/7 ^^@ \OML/cmm/m/it/7 x[]\OT1/cmr/m/n/7 )) []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 711--717
+Underfull \hbox (badness 10000) in paragraph at lines 709--715
 
  []
 
 
-Underfull \hbox (badness 4792) in paragraph at lines 711--717
+Underfull \hbox (badness 4792) in paragraph at lines 709--715
 \OT1/cmr/bx/n/7 Bmk: \OT1/cmr/m/n/7 Es gibt ste-ti-ge Funk-tio-nen auf
  []
 
 
-Overfull \hbox (0.79288pt too wide) in paragraph at lines 762--764
+Overfull \hbox (0.79288pt too wide) in paragraph at lines 760--762
 \OT1/cmr/bx/n/7 Wenn man den Vor-zei-chen-wech-sel be-nut-
  []
 
 
-Overfull \hbox (0.60107pt too wide) in paragraph at lines 762--764
+Overfull \hbox (0.60107pt too wide) in paragraph at lines 760--762
 \OT1/cmr/bx/n/7 zen will, um auf ein Ex-tre-mum zu schlies-
  []
 
 
-Overfull \hbox (11.72154pt too wide) in paragraph at lines 766--767
+Overfull \hbox (11.72154pt too wide) in paragraph at lines 764--765
 []$\OML/cmm/m/it/7 f$ \OT1/cmr/m/n/7 be-sitzt einen Wen-de-punkt in $\OML/cmm/m/it/7 x[]$\OT1/cmr/m/n/7 , wenn $\OML/cmm/m/it/7 f[]\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x[]\OT1/cmr/m/n/7 ) =
  []
 
-<mittelwertsatz.png, id=135, 476.53032pt x 260.47313pt>
+<mittelwertsatz.png, id=136, 476.53032pt x 260.47313pt>
 File: mittelwertsatz.png Graphic file (type png)
 <use mittelwertsatz.png>
-Package pdftex.def Info: mittelwertsatz.png  used on input line 780.
+Package pdftex.def Info: mittelwertsatz.png  used on input line 778.
 (pdftex.def)             Requested size: 153.5027pt x 83.90555pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 791--796
+Underfull \hbox (badness 10000) in paragraph at lines 789--794
 
  []
 
 
-Underfull \hbox (badness 2913) in paragraph at lines 791--796
+Underfull \hbox (badness 2913) in paragraph at lines 789--794
 \OT1/cmr/m/n/7 Da ei-ne Absch[]atzung mit dem Taylor-
  []
 
 
-Underfull \hbox (badness 1565) in paragraph at lines 791--796
+Underfull \hbox (badness 1565) in paragraph at lines 789--794
 \OT1/cmr/m/n/7 Feh-ler hat, de-fi-nie-ren wir das Rest-glied
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 791--796
+Underfull \hbox (badness 10000) in paragraph at lines 789--794
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 800--800
+Underfull \hbox (badness 10000) in paragraph at lines 798--798
 []\OT1/cmr/bx/n/7 Fehlerabsch[]atzung des Taylor-
  []
 
 [4 <./mittelwertsatz.png>]
-Overfull \hbox (18.62183pt too wide) in paragraph at lines 949--950
+Overfull \hbox (18.62183pt too wide) in paragraph at lines 947--948
 []$\OML/cmm/m/it/7 f\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 ) \OMS/cmsy/m/n/7 ^^T \OML/cmm/m/it/7 g\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )\OML/cmm/m/it/7 ; \OMS/cmsy/m/n/7 8\OML/cmm/m/it/7 x \OMS/cmsy/m/n/7 2 \OT1/cmr/m/n/7 [\OML/cmm/m/it/7 a; b\OT1/cmr/m/n/7 ] \OMS/cmsy/m/n/7 ! [][] \OML/cmm/m/it/7 f\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )[]\OML/cmm/m/it/7 x \OMS/cmsy/m/n/7 ^^T [][] \OML/cmm/m/it/7 g\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )[]\OML/cmm/m/it/7 x$ 
  []
 
 
-Overfull \hbox (7.63344pt too wide) in paragraph at lines 951--952
+Overfull \hbox (7.63344pt too wide) in paragraph at lines 949--950
 []$[] \OMS/cmsy/m/n/7 ^^T [][]$ 
  []
 
 
-Overfull \hbox (27.79655pt too wide) in paragraph at lines 959--960
+Overfull \hbox (27.79655pt too wide) in paragraph at lines 957--958
 \OT1/cmr/m/n/7 0\OML/cmm/m/it/7 ; \OMS/cmsy/m/n/7 8\OML/cmm/m/it/7 x \OMS/cmsy/m/n/7 2 \OT1/cmr/m/n/7 [\OML/cmm/m/it/7 a; b\OT1/cmr/m/n/7 ]$ ist, dann gibt es $\OML/cmm/m/it/7 ^^X \OMS/cmsy/m/n/7 2 \OT1/cmr/m/n/7 [\OML/cmm/m/it/7 a; b\OT1/cmr/m/n/7 ]$ mit $[][] \OML/cmm/m/it/7 f\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )\OML/cmm/m/it/7 g\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )[]\OML/cmm/m/it/7 x \OT1/cmr/m/n/7 =
  []
 
 [5]
-Overfull \hbox (18.67015pt too wide) detected at line 999
+Overfull \hbox (18.67015pt too wide) detected at line 997
 [] \OML/cmm/m/it/7 u \OMS/cmsy/m/n/7 ^^A \OML/cmm/m/it/7 f\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 ) + \OML/cmm/m/it/7 v \OMS/cmsy/m/n/7 ^^A \OML/cmm/m/it/7 g\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )[]\OML/cmm/m/it/7 x \OT1/cmr/m/n/7 = \OML/cmm/m/it/7 u [] f\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )[]\OML/cmm/m/it/7 x \OT1/cmr/m/n/7 + \OML/cmm/m/it/7 v [] g\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )[]\OML/cmm/m/it/7 x
  []
 
 
-Overfull \hbox (18.9782pt too wide) detected at line 1004
+Overfull \hbox (18.9782pt too wide) detected at line 1002
 [][] \OML/cmm/m/it/7 f\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )[]\OML/cmm/m/it/7 x \OT1/cmr/m/n/7 = [][] \OML/cmm/m/it/7 f\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )[]\OML/cmm/m/it/7 x \OT1/cmr/m/n/7 + [][] \OML/cmm/m/it/7 f\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )[]\OML/cmm/m/it/7 x;  c \OMS/cmsy/m/n/7 2 \OT1/cmr/m/n/7 [\OML/cmm/m/it/7 a; b\OT1/cmr/m/n/7 ]
  []
 
 
-Overfull \hbox (2.03432pt too wide) detected at line 1009
+Overfull \hbox (2.03432pt too wide) detected at line 1007
 [] \OML/cmm/m/it/7 f[]\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )\OML/cmm/m/it/7 g\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )[]\OML/cmm/m/it/7 x \OT1/cmr/m/n/7 = \OML/cmm/m/it/7 f\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )\OML/cmm/m/it/7 g\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 ) \OMS/cmsy/m/n/7 ^^@ [] \OML/cmm/m/it/7 f\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )\OML/cmm/m/it/7 g[]\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )[]\OML/cmm/m/it/7 x
  []
 
 
-Overfull \hbox (0.8665pt too wide) in paragraph at lines 1014--1015
+Overfull \hbox (0.8665pt too wide) in paragraph at lines 1012--1013
 \OT1/cmr/m/n/7 par-ti-el-le In-te-gra-ti-on an-wen-den zu k[]onnen (z.B.
  []
 
 
-Underfull \hbox (badness 1127) in paragraph at lines 1019--1021
+Underfull \hbox (badness 1127) in paragraph at lines 1017--1019
 []\OT1/cmr/m/n/7 Um $[][] \OML/cmm/m/it/7 f\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 g\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 ))[]\OML/cmm/m/it/7 x$ \OT1/cmr/m/n/7 zu be-rech-nen: Er-set-ze
  []
 
 
-Overfull \hbox (2.71257pt too wide) in paragraph at lines 1025--1026
+Overfull \hbox (2.71257pt too wide) in paragraph at lines 1023--1024
 \OT1/cmr/m/n/7 gral be-rech-net wer-den und dann $\OML/cmm/m/it/7 u$ \OT1/cmr/m/n/7 wie-der durch
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1041--1042
+Underfull \hbox (badness 10000) in paragraph at lines 1039--1040
 []\OT1/cmr/m/n/7 Parameter $\OML/cmm/m/it/7 A[]; [] ; A[]$ \OT1/cmr/m/n/7 (bzw.
  []
 
 
-Underfull \hbox (badness 3098) in paragraph at lines 1041--1042
+Underfull \hbox (badness 3098) in paragraph at lines 1039--1040
 \OML/cmm/m/it/7 B[]; [] ; B[]$\OT1/cmr/m/n/7 ) be-stim-men. ($\OML/cmm/m/it/7 x$ \OT1/cmr/m/n/7 je-weils
  []
 
 
-Underfull \hbox (badness 4832) in paragraph at lines 1041--1042
+Underfull \hbox (badness 4832) in paragraph at lines 1039--1040
 \OT1/cmr/m/n/7 gleich Null-stel-le set-zen, um-for-men
  []
 
 
-Overfull \hbox (7.55803pt too wide) in paragraph at lines 1069--1072
+Overfull \hbox (7.55803pt too wide) in paragraph at lines 1067--1070
 \OT1/cmr/m/n/7 Bernoulli-Polynome $\OML/cmm/m/it/7 B[]\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )$, so-wie die Bernoulli-Zahlen
  []
 
 
 Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 1078.
+(amsmath)                 on input line 1076.
 
 
-Overfull \hbox (8.13289pt too wide) in paragraph at lines 1078--1079
+Overfull \hbox (8.13289pt too wide) in paragraph at lines 1076--1077
 []\OT1/cmr/m/n/7 F[]ur das $\OML/cmm/m/it/7 k$\OT1/cmr/m/n/7 -te Bernoulli-Polynom gilt: $\OML/cmm/m/it/7 B[]\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 ) = \OML/cmm/m/it/7 k\OT1/cmr/m/n/7 !\OML/cmm/m/it/7 P[]\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )$.
  []
 
 
-Overfull \hbox (13.96822pt too wide) in paragraph at lines 1078--1079
+Overfull \hbox (13.96822pt too wide) in paragraph at lines 1076--1077
 \OT1/cmr/m/n/7 Wir de-fi-nie-ren wei-ter $\OML/cmm/m/it/7 B[] \OT1/cmr/m/n/7 = 1$ und al-le an-de-ren Bernoulli-
  []
 
 
-Overfull \hbox (8.3109pt too wide) in paragraph at lines 1082--1082
+Overfull \hbox (8.3109pt too wide) in paragraph at lines 1080--1080
 []\OT1/cmr/m/n/7 Hier ein paar Bernoulli-Polynome: $\OML/cmm/m/it/7 B[]\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 ) = 1$, $\OML/cmm/m/it/7 B[]\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 ) =
  []
 
 
-Overfull \hbox (30.33488pt too wide) detected at line 1109
+Overfull \hbox (30.33488pt too wide) detected at line 1107
 \OT1/cmr/m/n/7 1[] + 2[] + 3[] + \OML/cmm/m/it/7 ::: \OT1/cmr/m/n/7 + \OML/cmm/m/it/7 n[] \OT1/cmr/m/n/7 = [] [](\OMS/cmsy/m/n/7 ^^@\OT1/cmr/m/n/7 1)[]\OML/cmm/m/it/7 B[][]n[]
  []
 
 
-Overfull \hbox (6.85172pt too wide) in paragraph at lines 1121--1121
+Overfull \hbox (6.85172pt too wide) in paragraph at lines 1119--1119
 \OT1/cmr/m/n/7 Die Gamma-Funktion ist die ein-zi-ge Funk-ti-on $]0\OML/cmm/m/it/7 ; \OMS/cmsy/m/n/7 1\OT1/cmr/m/n/7 [\OMS/cmsy/m/n/7 !
  []
 
 
-Overfull \hbox (3.18419pt too wide) in paragraph at lines 1124--1125
+Overfull \hbox (3.18419pt too wide) in paragraph at lines 1122--1123
 \OT1/cmr/m/n/7 Fa-kult[]at. Mit der Euler-McLaurin-Formel kom-bi-niert
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 1247--1249
+Underfull \hbox (badness 10000) in paragraph at lines 1245--1247
 
  []
 
 
-Overfull \hbox (12.16614pt too wide) in paragraph at lines 1256--1264
+Overfull \hbox (12.16614pt too wide) in paragraph at lines 1254--1262
  [] 
  []
 
-<degrees_circle.pdf, id=188, 399.16716pt x 395.28479pt>
+<degrees_circle.pdf, id=189, 399.16716pt x 395.28479pt>
 File: degrees_circle.pdf Graphic file (type pdf)
 <use degrees_circle.pdf>
-Package pdftex.def Info: degrees_circle.pdf  used on input line 1268.
+Package pdftex.def Info: degrees_circle.pdf  used on input line 1266.
 (pdftex.def)             Requested size: 179.25237pt x 177.50859pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1289--1289
+Underfull \hbox (badness 10000) in paragraph at lines 1287--1287
 []|$[][]\OT1/cmr/m/n/7 ([])[] =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1289--1289
+Underfull \hbox (badness 10000) in paragraph at lines 1287--1287
 []|$[][] [] \OT1/cmr/m/n/7 =
  []
 
 [7 <./degrees_circle.pdf>]
-Overfull \hbox (0.54706pt too wide) in paragraph at lines 1383--1385
+Overfull \hbox (0.54706pt too wide) in paragraph at lines 1381--1383
 []\OT1/cmr/m/n/7 Monotonieverhalten bei ver-ket-te-ten/-mi-tein-an-
  []
 
 
-Overfull \hbox (16.81651pt too wide) in paragraph at lines 1397--1398
+Overfull \hbox (16.81651pt too wide) in paragraph at lines 1395--1396
 []\OT1/cmr/m/n/7 Monoton wach-sen-de Funk-ti-on kon-vex(konkav)
  []
 
 
-Overfull \hbox (7.40538pt too wide) in paragraph at lines 1398--1399
+Overfull \hbox (7.40538pt too wide) in paragraph at lines 1396--1397
 []\OT1/cmr/m/n/7 Monoton fal-len-de Funk-ti-on kon-vex(konkav)
  []
 
 
-Overfull \hbox (2.06645pt too wide) in paragraph at lines 1404--1405
+Overfull \hbox (2.06645pt too wide) in paragraph at lines 1402--1403
 []\OT1/cmr/m/n/7 Verkettung (streng) kon-ve-xer Funk-tio-nen,
  []
 
 
-Overfull \hbox (2.5976pt too wide) in paragraph at lines 1406--1408
+Overfull \hbox (2.5976pt too wide) in paragraph at lines 1404--1406
 []\OT1/cmr/m/n/7 Schauen ob Funk-ti-ons-fol-ge $\OML/cmm/m/it/7 f[]$ $[]$ \OT1/cmr/m/n/7 und
  []
 
 
-Overfull \hbox (10.24876pt too wide) in paragraph at lines 1434--1442
+Overfull \hbox (10.24876pt too wide) in paragraph at lines 1432--1440
 \OT1/cmr/m/n/7 der Grenz-wert der Un-ter-sum-me $[][] \OML/cmm/m/it/7 s\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 f[]; P\OT1/cmr/m/n/7 )$
  []
 
 
-Overfull \hbox (5.47858pt too wide) in paragraph at lines 1434--1442
+Overfull \hbox (5.47858pt too wide) in paragraph at lines 1432--1440
 [] \OML/cmm/m/it/7 s\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 f[]; P\OT1/cmr/m/n/7 ) = [] [] [] \OML/cmm/m/it/7 f[]\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )\OML/cmm/m/it/7 ^^N[] \OT1/cmr/m/n/7 =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1455--1460
+Underfull \hbox (badness 10000) in paragraph at lines 1453--1458
 
  []
 
 
-Overfull \hbox (1.27785pt too wide) in paragraph at lines 1466--1471
+Overfull \hbox (1.27785pt too wide) in paragraph at lines 1464--1469
 \OT1/cmr/bx/n/7 Richtig. \OT1/cmr/m/n/7 Sei $\OML/cmm/m/it/7  \OMS/cmsy/m/n/7 2 \U/msb/m/n/7 R$ \OT1/cmr/m/n/7 der Grenz-wert der Folge$(\OML/cmm/m/it/7 a[]\OT1/cmr/m/n/7 )[]$.
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 1621--1626
+Underfull \hbox (badness 10000) in paragraph at lines 1619--1624
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1625--1626
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1626--1627
 
  []
 
@@ -1409,87 +1414,77 @@ Underfull \hbox (badness 10000) in paragraph at lines 1627--1628
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1628--1629
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 1629--1630
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1631--1632
+Underfull \hbox (badness 10000) in paragraph at lines 1630--1631
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1632--1633
-
- []
-
-
-Overfull \hbox (2.201pt too wide) detected at line 1640
+Overfull \hbox (2.201pt too wide) detected at line 1638
 []
  []
 
 
-Overfull \hbox (8.44873pt too wide) detected at line 1683
+Overfull \hbox (8.44873pt too wide) detected at line 1681
 \OT1/cmr/m/n/7 = \OMS/cmsy/m/n/7 ^^@[] []\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 ) [](2 [](\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )) + [] [](2 [](\OML/cmm/m/it/7 x\OT1/cmr/m/n/7 )) + \OML/cmm/m/it/7 C
  []
 
 [9]
-Overfull \hbox (1.44452pt too wide) detected at line 1724
+Overfull \hbox (1.44452pt too wide) detected at line 1722
 []
  []
 
 
-Overfull \hbox (10.25693pt too wide) detected at line 1728
+Overfull \hbox (10.25693pt too wide) detected at line 1726
 [] [] \OT1/cmr/m/n/7 = \OML/cmm/m/it/7 t [] \OT1/cmr/m/n/7 = \OML/cmm/m/it/7 t []
  []
 
 
-Overfull \hbox (6.34355pt too wide) detected at line 1763
+Overfull \hbox (6.34355pt too wide) detected at line 1761
 [][] [][]\OML/cmm/m/it/7 x \OT1/cmr/m/n/7 = [] [] = \OMS/cmsy/m/n/7 ^^@[] [] []
  []
 
 
-Overfull \hbox (20.9897pt too wide) detected at line 1775
+Overfull \hbox (20.9897pt too wide) detected at line 1773
 []
  []
 
 
-Overfull \hbox (18.26398pt too wide) detected at line 1792
+Overfull \hbox (18.26398pt too wide) detected at line 1790
 []
  []
 
 
-Overfull \hbox (7.76537pt too wide) detected at line 1807
+Overfull \hbox (7.76537pt too wide) detected at line 1805
 \OML/cmm/m/it/7 R[]\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 f; t; t[]\OT1/cmr/m/n/7 ) = [](\OML/cmm/m/it/7 t \OMS/cmsy/m/n/7 ^^@ \OML/cmm/m/it/7 t[]\OT1/cmr/m/n/7 )[] = [](7 \OMS/cmsy/m/n/7 ^^@ \OT1/cmr/m/n/7 8)[] = []
  []
 
 
-Overfull \hbox (0.47385pt too wide) in paragraph at lines 1813--1820
+Overfull \hbox (0.47385pt too wide) in paragraph at lines 1811--1818
 \OT1/cmr/m/n/7 Stein-mann, Dan-ny Ca-me-nisch, An-drej Scheu-er etc.). 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1813--1820
+Underfull \hbox (badness 10000) in paragraph at lines 1811--1818
 
  []
 
 
-Overfull \hbox (19.21887pt too wide) in paragraph at lines 1813--1820
+Overfull \hbox (19.21887pt too wide) in paragraph at lines 1811--1818
 \OT1/cmr/m/n/7 L[]osungen sind ent-we-der mei-ne ei-ge-nen, of-fi-zi-el-le L[]osungen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1813--1820
+Underfull \hbox (badness 10000) in paragraph at lines 1811--1818
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1813--1820
+Underfull \hbox (badness 10000) in paragraph at lines 1811--1818
 
  []
 
@@ -1501,16 +1496,16 @@ Package rerunfilecheck Info: File `analysis1.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  36846 strings out of 478614
- 759686 string characters out of 2843122
- 1401403 words of memory out of 3000000
+ 759158 string characters out of 2843122
+ 1401405 words of memory out of 3000000
  54219 multiletter control sequences out of 15000+600000
  475914 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 110i,15n,106p,10743b,564s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\nshar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0700.pk><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti7.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm5.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on analysis1.pdf (10 pages, 433518 bytes).
+ 110i,15n,106p,10683b,564s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\nshar\AppData\Local\MiKTeX\fonts/pk/ljfour/public/wasy/dpi600\wasy7.pk> <C:\Users\nshar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0700.pk><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti7.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm5.pfb><C:/Users/nshar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
+Output written on analysis1.pdf (10 pages, 434532 bytes).
 PDF statistics:
- 568 PDF objects out of 1000 (max. 8388607)
+ 573 PDF objects out of 1000 (max. 8388607)
  154 named destinations out of 1000 (max. 500000)
  772 words of extra memory for PDF output out of 10000 (max. 10000000)
 
