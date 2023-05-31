@@ -248,8 +248,8 @@ Eulersche Formel: $e^{i\phi} = \cos \phi + i \sin \phi$
 \subsection{Konvergenz}
 Eine Folge $(a_n)_{n\in \mathbb{N}}$ konvergiert gegen L \\ $\iff \lim_{n \to \infty} a_n = L $ 
 \\ $\iff \forall \varepsilon > 0 \ \exists N_\varepsilon \ \forall n \ge N_\varepsilon : \ | a_n - L | < \varepsilon$
-\\ $\iff \forall \varepsilon > 0 $ ist die Menge ${n \in \N: a_n \notin ]l-\varepsilon,l+\varepsilon[}$ endlich. 
-\\ Es gibt für eine konvergente Folge $(a_n)_{n \geq 1}$ höchstens ein $L \in \R$, dass diese Bedingungen erfüllt.
+\\ $\iff \forall \varepsilon > 0 $ ist die Menge $\{n \in \N \mid a_n \notin ]l-\varepsilon,l+\varepsilon[\}$ endlich. 
+\\ Es gibt für eine konvergente Folge $(a_n)_{n \geq 1}$ höchstens ein $L \in \R$, dass diese Bedingungen erfüllt. (Eindeutigkeit)
 
 
 Wir dürfen (o.B.d.A.) annehmen, dass $\varepsilon $ durch eine Konstante $C \in \R$ beschränkt ist.
@@ -309,7 +309,7 @@ Wenn $a_n$ monoton fallend und nach unten beschränkt ist, dann konvergiert $a_n
 
 \begin{mainbox}{Cauchy-Kriterium}
   \vspace{-4pt}
-Die Folge $a_n$ ist genau dann konvergent, falls \\ $\forall \varepsilon > 0 \exists N \ge 1$ so dass $| a_n - a_m | < \varepsilon \quad \forall n,m \ge N$.
+Die Folge $a_n$ ist genau dann konvergent, falls \\ $\forall \varepsilon > 0, \ \exists N \ge 1$ so dass $\forall n,m \ge N: \\ | a_n - a_m | < \varepsilon$.
   \vspace{-4pt}
 \end{mainbox}
 
@@ -347,7 +347,7 @@ Jede beschränkte Folge besitzt eine konvergente Teilfolge.
 $$\lim_{x\to\infty} (\sqrt{x + 4} - \sqrt{x - 2}) = \lim_{x\to\infty} \frac{(x+4)-(x-2)}{\sqrt{x+4}+\sqrt{x-2}}$$
 
 \subsubsection{Substitution}
-$$\lim_{x\to\infty} x^2 (1-\cos(\frac{1}{x}))$$
+$$\lim_{x\to\infty} x^2 \left(1-\cos\left(\frac{1}{x}\right)\right)$$
 Substituiere nun $u = \frac{1}{x}$:
 $$\lim_{u \to 0} \frac{1 - \cos(u)}{u^2} = \lim_{u \to 0} \frac{\sin(u)}{2u} = \lim_{u\to 0} \frac{\cos(u)}{2} = \frac{1}{2}$$
 
@@ -366,7 +366,7 @@ Forme um zu $ d^2 = 3d -2 \to d \in \{1,2\}$. Nun können wir $d = 2$ nehmen und
 
 \begin{mainbox}{Cauchy-Kriterium für Reihen}
   \vspace{-4pt}
-Die Reihe $\sumk a_k$ ist genau dann konvergent, falls $\forall \varepsilon > 0 \ \exists N \ge 1$ mit $| \sum_{k=n}^m a_k | < \varepsilon, \ \forall m \ge n \ge N$.
+Die Reihe $\sumk a_k$ ist genau dann konvergent, falls $\forall \varepsilon > 0, \ \exists N \ge 1$ folgendes gilt: $\forall m \ge n \ge N: \ | \sum_{k=n}^m a_k | < \varepsilon$.
   \vspace{-4pt}
 \end{mainbox}
 
@@ -1367,7 +1367,7 @@ Die Kreiszahl $\pi :=$ Inf$\{t > 0| \sin t = 0\}$. Beweisidee: $\sin x > 0, \for
   \\Substitution: $u = a + b -x, du = -dx$
   $$I = \int_b^a \frac{f(a+b-u)}{f(u)+f(a+b-u)}(-du) $$
   $$= \int_a^b \frac{f(a+b-u)}{f(u)+f(a+b-u)}du$$
-  $$2 \cdot I = \int_a^b \frac{f(x)+f(a+b-x)}{f(a+b-x)+f(x)}$$
+  $$2 \cdot I = \int_a^b \frac{f(x)+f(a+b-x)}{f(a+b-x)+f(x)}dx$$
   $$2I = \int_a^b1dx = b-a \implies I = \frac{b-a}{2}$$
 \end{mainbox}
 
