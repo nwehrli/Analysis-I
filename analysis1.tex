@@ -28,15 +28,16 @@
 % a base set, that is then customised
 \tcbset {
   base/.style={
-    boxrule=0.3mm,
+    boxrule=0mm,
+    boxsep = 1mm,
     leftrule=1mm,
-    left=1.75mm,
-    arc=0mm, 
+    left=0.8mm,
+    arc=2mm, 
     fonttitle=\bfseries, 
     colbacktitle=black!10!white, 
     coltitle=black, 
-    toptitle=0.75mm, 
-    bottomtitle=0.25mm,
+    toptitle=0.0mm, 
+    bottomtitle=0.0mm,
     title={#1}
   }
 }
@@ -246,11 +247,13 @@ Eulersche Formel: $e^{i\phi} = \cos \phi + i \sin \phi$
 
 \section{Folgen}
 \subsection{Konvergenz}
-Eine Folge $(a_n)_{n\in \mathbb{N}}$ konvergiert gegen L \\ $\iff \lim_{n \to \infty} a_n = L $ 
-\\ $\iff \forall \varepsilon > 0 \ \exists N_\varepsilon \ \forall n \ge N_\varepsilon : \ | a_n - L | < \varepsilon$
-\\ $\iff \forall \varepsilon > 0 $ ist die Menge $\{n \in \N \mid a_n \notin ]l-\varepsilon,l+\varepsilon[\}$ endlich. 
-\\ Es gibt für eine konvergente Folge $(a_n)_{n \geq 1}$ höchstens ein $L \in \R$, dass diese Bedingungen erfüllt. (Eindeutigkeit)
+Eine Folge $(a_n)_{n\in \mathbb{N}}$ konvergiert gegen L \\ $\iff \lim_{n \to \infty} a_n = L $
 
+$\iff \forall \varepsilon > 0 \ \exists N_\varepsilon \ \forall n \ge N_\varepsilon : \ | a_n - L | < \varepsilon$
+
+$\iff \forall \varepsilon > 0 $ ist die Menge $\{n \in \N \mid a_n \notin ]l-\varepsilon,l+\varepsilon[\}$ endlich. 
+
+Es gibt für eine konvergente Folge $(a_n)_{n \geq 1}$ höchstens ein $L \in \R$, dass diese Bedingungen erfüllt. (Eindeutigkeit)
 
 Wir dürfen (o.B.d.A.) annehmen, dass $\varepsilon $ durch eine Konstante $C \in \R$ beschränkt ist.
 Es gilt ausserdem:
@@ -359,7 +362,10 @@ $$\lim_{u \to 0} \frac{1 - \cos(u)}{u^2} = \lim_{u \to 0} \frac{\sin(u)}{2u} = \
   \item Verwende Induktionstrick (um den Grenzwert zu finden):
 \end{enumerate}
 \textbf{Wenn die Folge konvergiert, hat jede Teilfolge den gleichen Grenzwert.} Betrachte die Teilfolge $l(n) = n + 1$ für $d_{n+1} = \sqrt{3d_n - 2}$:
-$$d = \lim_{n\to\infty} d_n = \lim_{n\to\infty} d_{n+1} = \sqrt{\lim_{n \to \infty} 3d_n -2} = \sqrt{3d -2}$$
+\begin{align*}
+  d = \lim_{n\to\infty} d_n = \lim_{n\to\infty} d_{n+1} &= \sqrt{\lim_{n \to \infty} 3d_n -2}\\
+   &= \sqrt{3d -2}
+\end{align*}
 Forme um zu $ d^2 = 3d -2 \to d \in \{1,2\}$. Nun können wir $d = 2$ nehmen und die Beschränktheit mit $d=2$ per Induktion zeigen.
 
 \section{Reihen}
@@ -448,7 +454,8 @@ Sei $(a_n)$ eine Folge mit $a_n \ne 0, \forall n \ge 1$. \\ Falls $\limn \sup \f
 \begin{subbox}{Definition Cauchy-Produkt}
   \vspace{-4pt}
   Das Cauchy-Produkt von zwei Reihen $\sum_{i = 0}^\infty a_i$ und $\sum_{j = 0}^\infty b_j$ ist definiert als
-  $$\sum_{n=0}^\infty \sum_{j=0}^n (a_{n-j} \cdot b_j) = a_0b_0 + (a_0b_1 + a_1b_0) + \ldots$$ Es konvergiert, falls beide Reihen absolut konvergieren.
+  $$\sum_{n=0}^\infty \sum_{j=0}^n (a_{n-j} \cdot b_j) = a_0b_0 + (a_0b_1 + a_1b_0) + \ldots$$ 
+  Es konvergiert, falls beide Reihen absolut konvergieren.
   \vspace{-4pt}
 \end{subbox}
 
@@ -476,7 +483,7 @@ Wir nehmen an, dass
 
 \begin{subbox}{}
   \vspace{-8pt}
-  $$exp(z) = \sum_{n = 0}^{\infty} \frac{z^n}{n!} = \limn (1 + \frac{1}{n})^n$$
+  $$exp(z) = \sum_{n = 0}^{\infty} \frac{z^n}{n!} = \limn \left(1 + \frac{1}{n}\right)^n$$
   \vspace{-12pt}
 \end{subbox}
 
@@ -498,8 +505,12 @@ Polynomielle Funktionen sind auf $\R$ stetig.
 \begin{subbox}{}
   \vspace{-8pt}
   \begin{itemize}
-    \item Falls $f$ und $g$ den gleichen Definitions-/Bildbereich haben und in $x_0$ stetig sind, dann sind auch $$f + g, \lambda \cdot f, f \cdot g, \frac{f}{g}, |f|, \max(f,g), \min(f,g)$$ stetig in $x_0$.
-    \item Seien $P,Q$ zwei Polynomielle Funktionen auf $\R$ mit $x_1, ..., x_m$ Nullstellen von $Q$. Dann ist $\frac{P}{Q}$ stetig $\forall x \in \R \backslash \{x_1, ..., x_m\}$
+    \item Falls $f$ und $g$ den gleichen Definitions-/Bildbereich haben und in $x_0$ stetig sind, dann sind auch
+    $$f + g, \lambda \cdot f, f \cdot g, \frac{f}{g}, |f|, \max(f,g), \min(f,g)$$ 
+    stetig in $x_0$.
+    \item Seien $P,Q$ zwei Polynomielle Funktionen auf $\R$ mit $x_1, ..., x_m$ Nullstellen von $Q$. Dann ist $\frac{P}{Q}$ stetig 
+    
+    $\forall x \in \R \backslash \{x_1, ..., x_m\}$
     \item $D_1, D_2 \subset \R$ $f: D_1 \to D_2, g: D_2 \to \R$ mit $f, g$ stetig. Dann ist $g \circ f: D_1 \to \R$ in $x_0 \in D_1$ stetig.   
   \end{itemize}
   \vspace{-12pt}
@@ -560,9 +571,11 @@ Eine Funktionenfolge ist eine Abbildung $\N \to \{f: D \to \R \}$.
   \item $\forall \varepsilon > 0 \ \exists N > 1$, so dass $\forall n, m \geq \N$ und $\forall x \in D: |f_n(x) - f_m(x)| < \varepsilon$.  
 \end{itemize}
  Die Funktionenfolge $(g_n)$ ist gleichmässig konvergent, falls für alle $x\in D$ der Grenzwert $\limn g_n(x) = g(x)$ existiert und die Folge $(g_n)$ gleichmässig gegen $g$ konvergiert.
- \vspace{-12pt}
+ \vspace{-4pt}
 \end{mainbox}
-Sei eine Funktionsfolge $(f_n)_{n \geq 0}$ stetig, dann ist die dazugehörige Funktion $f$ genau dann stetig, wenn $f_n$ gleichmässig konvergiert. Punktweise Konvergenz ist nicht ausreichend.
+Sei eine Funktionsfolge $(f_n)_{n \geq 0}$ stetig, dann ist die dazugehörige Funktion $f$ genau dann stetig, wenn $f_n$ gleichmässig konvergiert. 
+
+\textbf{Punktweise Konvergenz ist nicht ausreichend.}
 
 \vspace{0.5mm}
   \textbf{Beispiel: }$f_n: [0, 1] \to \R: f_n(x) = x^n$ konvergiert punktweise gegen $f(x) = \left\{
